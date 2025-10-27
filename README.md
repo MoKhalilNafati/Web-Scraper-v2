@@ -38,7 +38,7 @@ pip install lxml
 ```
 ## 📝 Usage
 
-1. Open the script in your editor and adjust the ##BASE_URL## for your preferred programs filter.
+1. Adjust Search URL: Open the script and edit the ##BASE_URL## variable if you want to use different search filters.
 ```
 BASE_URL = "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/?hec-degreeProgrammeType=...."
 ```
