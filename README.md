@@ -39,8 +39,11 @@ pip install lxml
 ## 📝 Usage
 
 1. Open the script in your editor and adjust the ##BASE_URL## for your preferred programs filter.
+```
+BASE_URL = "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/?hec-degreeProgrammeType=...."
+```
 2. Replace your with open(...) line: Find this line in your main function
 ```
 with open("C:/Users/Khalil/Documents/VS/Web Scraping v2/programs.csv", "w", newline="") as f:
 ```
-The results will be saved in programs.csv file.
+The results will be saved in ##programs.csv## file.
